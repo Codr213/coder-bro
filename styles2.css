@@ -1,15 +1,39 @@
 body{
 background-color:cornsilk;
+width:70%;
+
 }
 .section1{
 background-color:gold;
+width:70%;
+border: 10px solid  black;
+border-style:groove;
+margin:10px 20px 10px 20px;
+padding: 20px 10px 20px 10px;
 }
 .section2{
 background-color: lightcyan;
+width:70%;
+border: 10px solid black;
+border-style: groove;
+margin:10px 20px 10px 20px;
+padding: 20px 10px 20px 10px;
 }
 .section3{
 background-color: aquamarine;
+width:70%;
+border: 10px solid black;
+border-style: groove ;
+margin:10px 20px 10px 20px;
+padding: 20px 10px 20px 10px;
+
+
 }
 .section4{
 background-color: cadetblue;
+width:70%;
+border: 10px solid black;
+border-style:groove;
+margin:10px  20px 10px 20px;;
+padding: 20px 10px 20px 10px;
 }
