@@ -1,0 +1,55 @@
+/*My first link*/
+a{
+font-size: 40px;
+}
+
+a:visited{
+color:crimson;
+}
+
+a:link{
+    color:cyan;
+    }
+
+    
+
+
+a:hover{
+color:antiquewhite;
+}
+a:active{
+color:darkmagenta;
+}
+/*My link with background*/
+a.background{
+background-color:firebrick;
+}
+a.background:link{
+color:aquamarine;
+}
+a.background:visited{
+color:blanchedalmond;
+}
+a.background:hover{
+color:darkcyan;
+}
+a.background:active{
+color:darkkhaki;
+}
+/*My link with button*/
+a.button{
+text-decoration: none;
+background-color: darkslateblue;
+color: grey;
+padding: 20px;
+}
+/*My List Practice*/
+.l1{
+ list-style-type: square;   
+}
+.l2{
+list-style-type: upper-roman;
+}
+.l3{
+list-style-image: url('img/1485519398721.jpg');
+}
